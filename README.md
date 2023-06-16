@@ -1,11 +1,7 @@
 KVTES 2022–2025, voimassa 1.5.2022 lukien
 I luku Yleinen osa
 1 § Soveltamisala
-Tätä virka- ja työehtosopimusta sovelletaan kuntien ja kuntayhtymien
-
-viranhaltijoihin ja
-kuukausipalkkaisiin työntekijöihin
-jollei tässä virka- ja työehtosopimuksessa, Sosiaali- ja terveydenhuollon henkilöstön työ- ja virkaehtosopimuksessa (SOTE-sopimus), Kunta-alan opetushenkilöstön virka- ja työehtosopimuksessa (OVTES), Teknisten sopimuksessa (TS), Lääkärisopimuksessa (LS) tai muussa virka- tai työehtosopimuksessa ole toisin määrätty taikka Kunta- ja hyvinvointialuetyönantajat KT:n suostumuksella tehdystä palkkaussopimuksesta muuta aiheudu.
+Tätä virka- ja työehtosopimusta sovelletaan kuntien ja kuntayhtymien viranhaltijoihin ja kuukausipalkkaisiin työntekijöihin jollei tässä virka- ja työehtosopimuksessa, Sosiaali- ja terveydenhuollon henkilöstön työ- ja virkaehtosopimuksessa (SOTE-sopimus), Kunta-alan opetushenkilöstön virka- ja työehtosopimuksessa (OVTES), Teknisten sopimuksessa (TS), Lääkärisopimuksessa (LS) tai muussa virka- tai työehtosopimuksessa ole toisin määrätty taikka Kunta- ja hyvinvointialuetyönantajat KT:n suostumuksella tehdystä palkkaussopimuksesta muuta aiheudu.
 
 Soveltamisohje
 Tämä sopimus ei koske henkilöitä, jotka ovat työkokeilussa tai työhön valmennuksessa taikka muuten sellaisessa asemassa, ettei heitä voida pitää työntekijöinä.
