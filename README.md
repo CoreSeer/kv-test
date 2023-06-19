@@ -3246,23 +3246,21 @@ Taloudellisesta tai tuotannollisesta syystä johtuvan työntekijän irtisanomise
 
 5 § Irtisanomisajat *)
 1 mom.
-Työnantajan irtisanoessa viranhaltijan virkasuhteen tai työntekijän työsopimuksen, irtisanomisaika on vähintään
+Työnantajan irtisanoessa viranhaltijan virkasuhteen tai työntekijän työsopimuksen, irtisanomisaika on vähintään 14 päivää, jos palvelussuhde on jatkunut enintään yhden vuoden.
+ 
+Työnantajan irtisanoessa viranhaltijan virkasuhteen tai työntekijän työsopimuksen, irtisanomisaika on vähintään yksi kuukausi, jos palvelussuhde on jatkunut yli vuoden, mutta enintään neljä vuotta.
+ 
+Työnantajan irtisanoessa viranhaltijan virkasuhteen tai työntekijän työsopimuksen, irtisanomisaika on vähintään kaksi kuukautta, jos palvelussuhde on jatkunut yli neljä, mutta enintään kahdeksan vuotta.
+ 
+Työnantajan irtisanoessa viranhaltijan virkasuhteen tai työntekijän työsopimuksen, irtisanomisaika on vähintään neljä kuukautta, jos palvelussuhde on jatkunut yli kahdeksan, mutta enintään 12 vuotta.
+ 
+Työnantajan irtisanoessa viranhaltijan virkasuhteen tai työntekijän työsopimuksen, irtisanomisaika on vähintään kuusi kuukautta, jos palvelussuhde on jatkunut yli 12 vuotta keskeytyksettä.
 
-14 päivää, jos palvelussuhde on jatkunut enintään yhden vuoden
- 
-yksi kuukausi, jos palvelussuhde on jatkunut yli vuoden, mutta enintään neljä vuotta
- 
-kaksi kuukautta, jos palvelussuhde on jatkunut yli neljä, mutta enintään kahdeksan vuotta
- 
-neljä kuukautta, jos palvelussuhde on jatkunut yli kahdeksan, mutta enintään 12 vuotta
- 
-kuusi kuukautta, jos palvelussuhde on jatkunut yli 12 vuotta keskeytyksettä.
 2 mom.
-Viranhaltijan irtisanoessa virkasuhteensa tai työntekijän irtisanoessa työsopimuksensa, irtisanomisaika on vähintään
-
-14 päivää, jos palvelussuhde on jatkunut enintään viisi vuotta
+Viranhaltijan irtisanoessa virkasuhteensa tai työntekijän irtisanoessa työsopimuksensa, irtisanomisaika on vähintään 14 päivää, jos palvelussuhde on jatkunut enintään viisi vuotta.
  
-yksi kuukausi, jos palvelussuhde on jatkunut yli viisi vuotta keskeytyksettä.
+Viranhaltijan irtisanoessa virkasuhteensa tai työntekijän irtisanoessa työsopimuksensa, irtisanomisaika on vähintään yksi kuukausi, jos palvelussuhde on jatkunut yli viisi vuotta keskeytyksettä.
+
 Jos viranhaltijan ottaminen kuuluu valtuustolle, irtisanomisaika on vähintään kaksi kuukautta.
 
 3 mom.
